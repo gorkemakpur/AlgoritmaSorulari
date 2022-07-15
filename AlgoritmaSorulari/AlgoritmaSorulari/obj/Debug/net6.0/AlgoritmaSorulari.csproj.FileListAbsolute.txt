@@ -1,0 +1,15 @@
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net6.0\AlgoritmaSorulari.exe
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net6.0\AlgoritmaSorulari.deps.json
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net6.0\AlgoritmaSorulari.runtimeconfig.json
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net6.0\AlgoritmaSorulari.dll
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net6.0\AlgoritmaSorulari.pdb
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.csproj.AssemblyReference.cache
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.AssemblyInfoInputs.cache
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.AssemblyInfo.cs
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.csproj.CoreCompileInputs.cache
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.dll
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\ref\AlgoritmaSorulari.dll
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.pdb
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\AlgoritmaSorulari.genruntimeconfig.cache
+D:\.NET-project\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net6.0\refint\AlgoritmaSorulari.dll
